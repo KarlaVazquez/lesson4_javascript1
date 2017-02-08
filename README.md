@@ -16,6 +16,6 @@ This project helped to expand my knowledge within Javascript and allowed me to s
 https://karlavazquez.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. A huge concept I learned is to spellcheck everything!
-2. In order for a line of code to be ignored I simply have to insert a ()
-3. Javascript is able to change HTML Elements.
+1. A huge concept I learned is to spellcheck everything! 
+2. In order for a line of code to be ignored I simply have to insert a slash.
+3. Javascript is able to change HTML Elements. 
