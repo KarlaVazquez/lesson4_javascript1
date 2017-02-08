@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 08, 2017
 
 ### Student Name:  
-(First and Last Name)
+Karla Vazquez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project helped to expand my knowledge within Javascript and allowed me to see the many possibilities that can arise from it.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://karlavazquez.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. A huge concept I learned is to spellcheck everything!
+2. In order for a line of code to be ignored I simply have to insert a ()
+3. Javascript is able to change HTML Elements.
