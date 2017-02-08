@@ -13,7 +13,7 @@ Karla Vazquez
 This project helped to expand my knowledge within Javascript and allowed me to see the many possibilities that can arise from it.
 
 ### View Project:
-https://github.com/KarlaVazquez/lesson4_javascript1
+https://karlavazquez.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. A huge concept I learned is to spellcheck everything! 
